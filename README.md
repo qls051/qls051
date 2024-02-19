@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+![### Hi there 👋](https://capsule-render.vercel.app/api?type=waving)
 
 <!--
 **qls051/qls051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
