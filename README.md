@@ -44,6 +44,6 @@
     <a href="mailto:qls07050100@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
- <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+ <a href=""https://velog.io/@2yesempty/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link="https://velog.io/@2yesempty/posts"/></a>&nbsp
   <a href="https://www.instagram.com/2yesempty/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2yesempty/"/></a>&nbsp
   <a href="mailto:qls07050100@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qls07050100@gmail.com"/></a>
