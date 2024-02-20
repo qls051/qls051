@@ -5,7 +5,7 @@
 <div align="left">
 
  **Hello**👋<br>
- Hello! I am currently studying to become a game developer.
+ I am currently studying to become a game developer.
 
  ---
 
