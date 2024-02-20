@@ -33,6 +33,12 @@
 
 <a href="https://velog.io/@2yesempty/posts">
   <img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
-</a><br>
+</a>
 
-**qls07050100@gmail.com**
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/2yesempty/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:qls07050100@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
