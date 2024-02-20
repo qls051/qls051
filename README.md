@@ -5,7 +5,7 @@
 <div align="left">
 
  **Hello**👋<br>
- Hello World
+ Hello! I am currently studying to become a game developer.
 
  ---
 
