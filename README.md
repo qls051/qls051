@@ -22,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> About me
 </summary>
 
- <a href="https://yeonyeon.tistory.com">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https[://yeonyeon.tistory.com](https://velog.io/@2yesempty/posts)"/>
+<a href="https://velog.io/@2yesempty/posts">
+  <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
 </a>
 
 ---
