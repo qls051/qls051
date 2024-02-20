@@ -8,26 +8,23 @@
 
  ---
 
-<summary>
-  ✏️ I'm Studying 
-</summary>
-  
+  ✏️ ***I'm Studying***
+ 
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </details>
 
 ---
 
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> About me
-</summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ***About me***
 
 <a href="https://velog.io/@2yesempty/posts">
-  <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
+  <img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
 </a>
 
 ---
- **💻 GitHub**
+
+ 💻 ***GitHub***
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=qls051&theme=tokyonight&show_icons=true" width="42%" />
