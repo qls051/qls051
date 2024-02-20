@@ -18,6 +18,12 @@
 
 </details>
 
+---
+
+***🔨 Tool I use***<br>
+
+<img src="https://img.shields.io/badge/VISUALSTUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISUALSTUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 ---
 
