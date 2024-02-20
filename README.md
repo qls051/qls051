@@ -14,13 +14,6 @@
 
 </details>
 
----
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ***About me***
-
-<a href="https://velog.io/@2yesempty/posts">
-  <img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
-</a>
 
 ---
 
@@ -32,3 +25,13 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qls051&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
+
+---
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ***About me***
+
+<a href="https://velog.io/@2yesempty/posts">
+  <img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@2yesempty/posts"/>
+</a>
+
+**qls07050100@gmail.com**
